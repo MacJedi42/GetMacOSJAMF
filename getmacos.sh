@@ -32,7 +32,7 @@ fi
 ##Double check /Library/Application Support/macOSCache/ exists 
 if [ -d "/Library/Application Support/macOSCache/" ]
 then
-	echo "/Library/Application Support/macOSCache/ exits, beginning download...."
+	echo "/Library/Application Support/macOSCache/ exists, beginning download...."
 else
 	echo "/Library/Application Support/macOSCache/ is missing. Creating directory...."
 	mkdir /Library/Application\ Support/macOSCache/
