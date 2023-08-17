@@ -36,4 +36,4 @@ I recommend using [Mr. Macintosh](https://mrmacintosh.com/) to get InstallAssist
 
 ## Author
 
-- Sebastian Whincop, 2022
+- Sebastian Whincop, 2023
