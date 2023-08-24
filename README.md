@@ -12,7 +12,7 @@ This script is designed to be run as a script policy in Jamf Pro, but should wor
 ## Usage
 This script is meant to be used in the scripts function of JAMF, but could be used in other MDMs. To test the script yourself simply:
 ```bash
-./getmacos.sh
+sudo ./getmacos.sh
 ```
 
 ## Configuration
