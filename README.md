@@ -10,9 +10,9 @@ This script is designed to be run as a script policy in Jamf Pro, but should wor
 - Sufficient disk space (at least 30GB)
 
 ## Usage
-
+This script is meant to be used in the scripts function of JAMF, but could be used in other MDMs. To test the script yourself simply:
 ```bash
-./macOS_download_script.sh
+./getmacos.sh
 ```
 
 ## Configuration
