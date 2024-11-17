@@ -1,4 +1,4 @@
-# macOS Download Script
+# macOS Download Script for JAMF / MDMs 
 
 This script is designed to download macOS Installers directly from Apple's servers. If the download isn't successful, the script will try again and resume from where it left off until it is successful... or give up after 5 attempts. 
 This script is designed to be run as a script policy in Jamf Pro, but should work in other MDM solutions. If there is less than 30GB of space, this script will stop and refuse to download the installer.
